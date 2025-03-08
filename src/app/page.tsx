@@ -3,7 +3,7 @@ import React from 'react'
 export default function Home() {
   return (
     <div className="flex flex-col justify-center items-center p-4">
-      <h1 key="home-title" className="text-4xl font-bold mb-4">Enamul fucking boy</h1>
+      <h1 key="home-title" className="text-4xl font-bold mb-4">Enamul</h1>
       <p className="text-lg mb-8">Welcome to my portfolio</p>
       <section className="mb-8">
       <h2 className="text-3xl font-semibold mb-2">About Me</h2>
